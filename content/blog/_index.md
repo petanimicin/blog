@@ -3,6 +3,8 @@ title: "Blog"
 date: 2022-06-13T20:55:37+01:00
 draft: false
 
+Jika sudah terlanjur cinta, tai pun akan terasa manis.
+
 showDate : false
 showDateUpdated : false
 showHeadingAnchors : false
