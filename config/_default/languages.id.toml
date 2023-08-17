@@ -16,7 +16,7 @@ title = "Tamago"
  [author]
    name = "Tamago"
    image = "img/blowfish_logo.png"
-   headline = "< typeit > Jika mencintaimu itu hanya mimpi, maka biarkanlah aku bermimpi selamanya < /typeit >"
+   headline = "{< typeit >} Jika mencintaimu itu hanya mimpi, maka biarkanlah aku bermimpi selamanya {< /typeit >}"
    bio = "Kamu itu seperti langit yang tidak pernah bisa aku gapai"
    links = [
      { email = "mailto:webillian97@gmail.com" },
