@@ -10,8 +10,6 @@ tags: ["Static Site Generator", "Hugo"]
 draft: false
 ---
 
-{{< toc >}}
-
 Sudah beberapa tahun yang lalu sejak saya mulai ngeblog. berbagai macam platform blogging bahkan sudah pernah coba. Mulai dari blogger, wordpress, sampai ghost sudah pernah saya cicipi. Tidak ada yang buruk sih sebenarnya dari ketiga platform yang sudah pernah saya coba itu. Malah sebenarnya bagus dan lebih powerfull jika bisa di optimasi dengan tepat. Namun setelah melalui beberapa pertimbangan dan ingin mencoba hal baru, akhirnya saya menjatuhkan pilihan ke _SSG_ _(Static Site Generator)_ dan memilih Hugo sebagai platformnya.
 
 ## Apa itu _Static Site Generator_?
