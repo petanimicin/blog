@@ -18,3 +18,4 @@ sharingLinks : false
 
 ---
 
+Jika sudah terlanjur cinta, bahkan tai pun akan terasa manis
