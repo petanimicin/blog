@@ -64,11 +64,11 @@
 
 
  [[footer]]
-   name = "Tags"
-   pageRef = "tags"
+   name = "Privacy"
+   pageRef = "privacy"
    weight = 10
 
  [[footer]]
-   name = "Categories"
-   pageRef = "categories"
+   name = "Disclaimer"
+   pageRef = "disclaimer"
    weight = 20
