@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Blowfish!"
-description: "This is a demo of the Blowfish theme for Hugo."
+title: "Welcome to Tamago!"
+description: "Halaman pembuka Tamago"
 ---
 
-This is a demo site built entirely using Blowfish.
+{{< typeit >}} Dihina karena miskin? Ingat!!! Gula ngga dia ada kenapa gitu manis apa tapi kopi ada… ya kan…!!! MIKIR…!!! {{< /typeit >}}
