@@ -1,11 +1,8 @@
 ---
 title: "Mulai Ngeblog Pakai Static Site Generator"
-meta_title: "mulai ngeblog pakai static site generator"
-description: "this is meta description"
+description: "mengenal static site generator beserta keunggulan dan jenis static site generator"
 date: 2023-08-07T11:09:27+07:00
-image: "/images/ngeblog-pakai-static-site-generator.png"
 categories: ["Blog","Website"]
-author: "Webillian Adhi"
 tags: ["Static Site Generator", "Hugo"]
 draft: false
 ---
