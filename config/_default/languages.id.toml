@@ -9,13 +9,13 @@ title = "Tamago"
   rtl = false
   dateFormat = "2 January 2006"
    logo = "img/logo.png"
-   secondaryLogo = "img/secondary-logo.png"
+   secondaryLogo = "img/logo.png"
    description = "My awesome website"
    copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
    name = "Webillian Adhi"
-   image = "img/blowfish_logo.png"
+   image = "img/logo-profil.png"
    headline = "Jika mencintaimu itu hanya mimpi, maka biarkanlah aku bermimpi selamanya"
    bio = "Kamu itu seperti langit yang tidak pernah bisa aku gapai"
    links = [
