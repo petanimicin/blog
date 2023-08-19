@@ -18,4 +18,8 @@ sharingLinks : false
 
 ---
 
+{{< lead >}}
 Jika sudah terlanjur cinta, bahkan tai pun akan terasa manis
+{{< /lead >}}
+
+---
