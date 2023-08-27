@@ -84,7 +84,7 @@
         {{ partial "series-closed.html" . }}
         {{ partial "sharing-links.html" . }}
         {{ partial "related.html" . }}
-        {{ partial "disqus.html" . -}}
+        
       </div>
      
      <script>
@@ -107,6 +107,9 @@
         {{ partial "comments.html" . }}
       </div>
     </div>
+
+    {{ partial "disqus.html" . -}}
+
     {{ else }}
     {{ warnf "[BLOWFISH] Comments are enabled for %s but no comments partial exists." .File.Path }}
     {{ end }}
