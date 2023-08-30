@@ -63,12 +63,17 @@
 # the copyright notice. Configure as per the main menu above.
 
 
- [[footer]]
+[[footer]]
    name = "Privacy"
    pageRef = "privacy"
    weight = 10
 
- [[footer]]
+[[footer]]
    name = "Disclaimer"
    pageRef = "disclaimer"
+   weight = 20
+
+[[footer]]
+   name = "Terms and Conditions"
+   pageRef = "terms-and-conditions"
    weight = 20
