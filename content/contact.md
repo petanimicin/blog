@@ -1,8 +1,11 @@
 ---
 title: "Contact"
 date: 2023-08-28T00:25:17+07:00
+layout: "simple"
 draft: false
 ---
+
+Silahkan hubungi kami melalui media sosial dihalaman beranda kami atau lewat form berikut ini.
 
 Contact form:
 
