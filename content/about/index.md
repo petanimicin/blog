@@ -5,4 +5,4 @@ layout: "simple"
 draft: false
 ---
 
-Berawal dari sebuah telur, kemudian menetas dan akhirnya menjadi dewasa. Setidaknya begitulah sebuah proses. Apa yang saya lakukan disini seperti halnya filosofi telur tersebut. dalam artian belajar dan terus belajar mengembangkan website ini sekaligus membagikan informasi, pengalaman, pengetahuan, dan tutorial-tutorial seputar dunia internet. Meskipun bukan seorang ahli, tapi dengan belajar semoga bisa menjadi berguna untuk orang lain. selamat membaca….
+Berawal dari sebuah telur, kemudian menetas dan akhirnya menjadi dewasa. Setidaknya begitulah sebuah proses. Apa yang saya lakukan disini seperti halnya filosofi telur tersebut. dalam artian belajar dan terus belajar mengembangkan website ini sekaligus membagikan informasi, pengalaman, pengetahuan, dan tutorial-tutorial seputar dunia internet, website, dan teknologi. Meskipun bukan seorang ahli, tapi dengan belajar semoga bisa menjadi berguna untuk orang lain. selamat membaca….
