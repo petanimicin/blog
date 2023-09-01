@@ -40,7 +40,7 @@ buildFuture = false
 
     [[related.indices]]
         name = "tags"
-        weight = 100
+        weight = 80
 
     [[related.indices]]
         name = "categories"
