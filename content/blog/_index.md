@@ -8,12 +8,12 @@ draft: false
 showDate : false
 showDateUpdated : false
 showHeadingAnchors : false
-showPagination : false
+showPagination : true
 showReadingTime : false
-showTableOfContents : true
-showTaxonomies : false 
+showTableOfContents : false
+showTaxonomies : true 
 showWordCount : false
-showSummary : false
+showSummary : true
 sharingLinks : false
 
 ---
