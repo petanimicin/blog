@@ -57,7 +57,7 @@ buildFuture = false
     [[related.indices]]
         applyFilter = false
         name = "date"
-        type = "date"
+        type = "fragments"
         weight = 10
 
     [[related.indices]]
