@@ -56,7 +56,7 @@ buildFuture = false
 
     [[related.indices]]
         name = "date"
-        weight = 10
+        weight = 0
 
     [[related.indices]]
       applyFilter = false
