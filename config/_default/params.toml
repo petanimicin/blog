@@ -18,11 +18,11 @@ enableCodeCopy = false
 disableImageOptimization = true
 
  defaultBackgroundImage = "/img/background.png" # used as default for background images 
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+ defaultFeaturedImage = "/img/background.png" # used as default for featured images in all articles
 
-# highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+ highlightCurrentMenuArea = true
+ smartTOC = true
+ smartTOCHideUnfocusedChildren = false
 
 [header]
   layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
@@ -61,9 +61,9 @@ disableImageOptimization = true
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = false
-  showHeadingAnchors = true
+  showHeadingAnchors = false
   showPagination = true
-  invertPagination = true
+  invertPagination = false
   showReadingTime = false
   showTableOfContents = true
   showRelatedContent = true
@@ -95,8 +95,8 @@ disableImageOptimization = true
 
 [taxonomy]
   showTermCount = true
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = true
   showViews = false
   showLikes = false
@@ -104,8 +104,8 @@ disableImageOptimization = true
   cardView = false
 
 [term]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = true
   showViews = false
   showLikes = false
