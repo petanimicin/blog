@@ -1,5 +1,5 @@
 ---
-title: "Perbedaan Website Dan Blog"
+title: "Website Dan Blog itu ternyata berbeda"
 description: "memahami perbedaan website dan blog, mulai dari pengertian blog dan pengertian website sampai persamaannya"
 date: 2023-09-02T20:13:15+07:00
 categories: ["Blog","Website"]
