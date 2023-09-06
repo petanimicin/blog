@@ -128,7 +128,7 @@ disableImageOptimization = true
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-   identifier = "https://www.buymeacoffee.com/tamagoid"
+   identifier = "tamagoid"
    globalWidget = true
    globalWidgetMessage = "Hello"
    globalWidgetColor = "#FFDD00"
