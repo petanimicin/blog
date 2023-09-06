@@ -130,7 +130,7 @@ disableImageOptimization = true
 [buymeacoffee]
    identifier = "tamagoid"
    globalWidget = true
-   globalWidgetMessage = "Hello"
+   globalWidgetMessage = "Belikan Saya Kopi"
    globalWidgetColor = "#FFDD00"
    globalWidgetPosition = "Right"
 
