@@ -1,10 +1,10 @@
 ---
-title: "Ghost Cms, Platform Blog Pesaing Wordpress"
-description: "memahami perbedaan website dan blog, mulai dari pengertian blog dan pengertian website sampai persamaannya"
+title: "Ghost CMS, Platform Blog Pesaing Wordpress"
+description: "mengenal ghost cms beserta keunggulan, kekurangan, fitur, dan cara instal ghost cms di cpanel shared hosting"
 date: 2023-09-07T00:07:40+07:00
 categories: ["Blog","Website"]
 tags: ["Ghost","CMS", "Wordpress"]
-summary: "memahami perbedaan website dan blog, mulai dari pengertian blog dan pengertian website sampai persamaannya"
+summary: "mengenal ghost cms beserta keunggulan, kekurangan, fitur, dan cara instal ghost cms di cpanel shared hosting"
 draft: false
 ---
 
