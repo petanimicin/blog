@@ -1,7 +1,7 @@
 ---
 title: "Ngidam Asus Zenbook Pro 14 Duo Oled, Laptop Terbaik Versi Gue"
 date: 2023-09-07T14:39:15+07:00
-draft: false
+draft: true
 ---
 
 ## Bagaimana Cara Memilih Laptop?
