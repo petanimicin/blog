@@ -7,7 +7,7 @@ draft: false
 ## Bagaimana Cara Memilih Laptop?
 Memilih sebuah laptop tentu tidak bisa dengan sembarangan hanya berdasarkan keinginan atau mengikuti gengsi. Setidaknya dalam pandangan saya ada beberapa hal yang bisa menjadi pertimbangan dalam memilih laptop.
 
-![Memilih Laptop dengan Benar](/01.png)
+![Memilih Laptop dengan Benar](/img/01.png)
 
 1. Tujuan Penggunaan
 Yang pertama tentukan dahulu penggunaannya untuk tujuan apa. Apakah untuk sekolah? bekerja? editing? gaming? atau yang lainnya. Jadi laptop benar-benar berfungsi sebagaimana mestinya.
@@ -35,6 +35,6 @@ Karena Laptop ASUS hadir dengan dilengkapi Windows 11 Home. Ketika pekerjaan mul
 
 Disamping itu juga, Asus menawarkan berbagai macam jenis laptop yang peruntukkannya sudah disesuaikan. Ketika membuka websitenya ada 5 pilihan yang bisa kamu pilih sesuai dengan kebutuhan. Untuk rumah, untuk bekerja, untuk pelajar, untuk _creator_, dan untuk gaming. Nah tinggal pilih dong hehehe.. 😁
 
-![Asus Menawarkan Laptop Sesuai Kebutuhan. _Source_: www.asus.com](/02.png)
+![Source: www.asus.com](/img/02.png)
 
 ### _Kesengsem_ Asus Zenbook Duo Oled
