@@ -94,3 +94,54 @@ Kemudian klik _create_ maka akan muncul tampilan seperti ini. Silahkan copy untu
 
 <img src="https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2021/11/03072805/langkah-4-buka-terminal-1-768x243.png" alt="setup node js"/>
 
+### Buka Terminal
+Selanjutnya cari fitur terminal dan silahkan dibuka. Kemudian _paste_ kode yang tadi disalin lalu enter.
+
+<img src="https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2021/11/03072914/langkah-4-buka-terminal-3-768x185.png" alt="buka terminal di cpanel"/>
+
+### Instal Ghost-CLI
+selanjutnya kita perlu instal ghost-cli untuk konfigurasinya. pada terminal ketikan kode berikut
+
+{{< highlight html "linenos=table,hl_lines=4 7-9" >}}
+npm install ghost-cli@latest -g
+{{< /highlight >}}
+
+supaya tidak eror kita perlu memastikan bahwa folder tadi kosong, untuk itu hapus semua isi dalam folder yang tadi kita buat dengan perintah
+
+{{< highlight html "linenos=table,hl_lines=4 7-9" >}}
+rm -rf *
+{{< /highlight >}}
+
+kemudian instal ghost dengan perintah
+
+{{< highlight html "linenos=table,hl_lines=4 7-9" >}}
+ghost install local
+{{< /highlight >}}
+
+maka hasilnya seperti ini
+
+<img src="https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2021/11/03073116/langkah-6-install-ghost-cms-1-768x266.png" alt="instal ghost cms"/>
+
+### Buat Konfigurasi
+Berikutnya buatlah file konfigurasinya. karena tadi ghost diinstal secara local kita perlu membuat file produksinya. silahkan ketikan perintah ini
+
+{{< highlight html "linenos=table,hl_lines=4 7-9" >}}
+cp config.development.json config.production.json
+{{< /highlight >}}
+
+<img src="https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2021/11/03073237/langkah-8-edit-file-production-2-768x356.jpg" alt="instal ghost cms"/>
+
+selanjutnya buka file config.production.json. edit url nya sesuai dengan nama domain anda, jika sudah silahkan save.
+
+### Edit Application Startup File
+kembali ke node.js lalu edit application startup file nya ubah menjadi _current/index.js_.
+
+<img src="https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2021/11/03073400/langkah-9-edit-startup-file-1-768x260.png" alt="ubah settingan node.js"/>
+
+klik save lalu restart
+
+### Buka Panel Admin Ghost CMS
+buka panel ghost cms dengan mengetikan nama domain anda ditambah dengan /ghost. Lalu silahkan buat _account_ anda.
+
+#### Selanjutnya
+Instal Ghost CMS sudah berhasil, selanjutnya kamu tinggal menulis konten, membuat tema, merubah tampilan, dll.
