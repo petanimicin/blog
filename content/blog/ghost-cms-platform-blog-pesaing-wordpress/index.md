@@ -78,3 +78,19 @@ Banyak host saat ini tidak mendukung Ghost CMS. Tidak seperti WordPress, di mana
 Pencadangan hantu dilakukan dengan mengekspor file secara manual. Ini adalah sesuatu yang akan diperbaiki oleh tim hantu di masa depan, tetapi tampaknya tidak menjadi prioritas saat ini. Satu-satunya cara untuk mengotomatisasi ini adalah dengan melakukan pencadangan tingkat server, yang tidak ideal.
 
 ## Cara Instal Ghost CMS
+Sebelum menginstal ghost cms pastikan terlebih dahulu untuk memilih layanan hosting yang mendukung NodeJS, akses ssh, dan terminal. berikut langkah-langkahnya:
+
+### Setup Node JS
+Cari fitur Node JS
+
+<img src="https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2022/05/04131519/setup-node-js-768x398.webp" alt="setup node js"/>
+
+- Node.js version, Pilih Node.js yang direkomendasikan
+- Application root, Folder baru sebagai tempat instalasi Ghost CMS. Di sini kami membuat folder bernama root-folder atau nama yang lain juga boleh
+- Application URL, URL untuk mengakses panel admin CMS Ghost. Sesuaikan dengan nama domain Anda sendiri.
+- Application Mode, Pilih Production jika Anda ingin website langsung bisa digunakan, atau Development seperti di bawah jika ingin melakukan testing.
+
+Kemudian klik _create_ maka akan muncul tampilan seperti ini. Silahkan copy untuk langkah selanjutnya.
+
+<img src="https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2021/11/03072805/langkah-4-buka-terminal-1-768x243.png" alt="setup node js"/>
+
