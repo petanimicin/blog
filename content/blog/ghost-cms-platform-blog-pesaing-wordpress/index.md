@@ -108,17 +108,15 @@ npm install ghost-cli@latest -g
 
 supaya tidak eror kita perlu memastikan bahwa folder tadi kosong, untuk itu hapus semua isi dalam folder yang tadi kita buat dengan perintah
 
-{{< highlight html "linenos=table,hl_lines=4 7-9" >}}
-
+``
 rm -rf *
-{{< /highlight >}}
+``
 
 kemudian instal ghost dengan perintah
 
-{{< highlight html "linenos=table,hl_lines=4 7-9" >}}
-
+``
 ghost install local
-{{< /highlight >}}
+``
 
 maka hasilnya seperti ini
 
@@ -127,10 +125,9 @@ maka hasilnya seperti ini
 ### Buat Konfigurasi
 Berikutnya buatlah file konfigurasinya. karena tadi ghost diinstal secara local kita perlu membuat file produksinya. silahkan ketikan perintah ini
 
-{{< highlight html "linenos=table,hl_lines=4 7-9" >}}
-
+``
 cp config.development.json config.production.json
-{{< /highlight >}}
+``
 
 <img src="https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2021/11/03073237/langkah-8-edit-file-production-2-768x356.jpg" alt="instal ghost cms"/>
 
