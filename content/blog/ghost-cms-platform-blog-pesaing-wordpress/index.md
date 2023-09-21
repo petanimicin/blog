@@ -102,10 +102,9 @@ Selanjutnya cari fitur terminal dan silahkan dibuka. Kemudian _paste_ kode yang 
 ### Instal Ghost-CLI
 selanjutnya kita perlu instal ghost-cli untuk konfigurasinya. pada terminal ketikan kode berikut
 
-{{< highlight html "linenos=table,hl_lines=4 7-9" >}}
-
+``
 npm install ghost-cli@latest -g
-{{< /highlight >}}
+``
 
 supaya tidak eror kita perlu memastikan bahwa folder tadi kosong, untuk itu hapus semua isi dalam folder yang tadi kita buat dengan perintah
 
