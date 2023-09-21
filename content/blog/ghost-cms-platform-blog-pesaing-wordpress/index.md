@@ -133,7 +133,7 @@ cp config.development.json config.production.json
 
 selanjutnya buka file config.production.json. edit url nya sesuai dengan nama domain anda, jika sudah silahkan save.
 
-> Karena secara default database sqlite3 sudah tidak didukung oleh ghost, kita perlu menggantinya dengan mysql8. untuk tutorialnya akan kami buatkan di postingan berikutnya.
+> Karena secara default cara ini menggunakan database sqlite3 dan sudah tidak didukung oleh ghost, kita perlu menggantinya dengan mysql8. untuk tutorialnya akan kami buatkan di postingan berikutnya.
 
 ### Edit Application Startup File
 kembali ke node.js lalu edit application startup file nya ubah menjadi _current/index.js_.
