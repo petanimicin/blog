@@ -145,3 +145,7 @@ buka panel ghost cms dengan mengetikan nama domain anda ditambah dengan /ghost. 
 
 #### Selanjutnya
 Instal Ghost CMS sudah berhasil, selanjutnya kamu tinggal menulis konten, membuat tema, merubah tampilan, dll.
+
+_Sumber :_
+- Tutorial berdasar Pengalaman Pribadi
+- Gambar dari beberapa Sumber dikarenakan pengalaman pribadi tidak didokumentasikan
