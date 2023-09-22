@@ -200,3 +200,4 @@ Ada tiga jenis blog yang ditawarkan oleh Penzu.com yaitu Travel Journal, Daily D
 ### Postach
 Postach.io merupakan salah satu platform website builder yang memungkinkan penggunanya untuk terhubung ke berbagai aplikasi untuk catatan online. Kamu bahkan bisa menghubungkan Postach.io dengan aplikasi Evernote mengingat pengembang website builder ini adalah mereka yang turut mengembangkan Evernote. Jika Postach.io sudah terhubung ke Evernote, Kamu bisa langsung menerbitkan catatanmu di Evernote yang dibuat dari handphoneke dalam Postach.io. Caranya hanya cukup dengan menandai catatan tersebut dengan keterangan “Published” agar dapat dilihat semua orang. Fitur lain yang dimiliki oleh Postach.io adalah dapat menggantikan penyimpanan konten ke dalam Dropbox.
 
+Sebenarnya masih banyak lagi platform yang bisa digunakan untuk membuat blog secara gratis. tapi artikel ini sudah terlalu panjang, jadi kami sudahi sampai disini dulu.
