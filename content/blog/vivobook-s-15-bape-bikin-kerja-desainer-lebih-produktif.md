@@ -10,14 +10,14 @@ draft: false
 
 Bagi seorang desainer, produktivitas dan kreativitas adalah segalanya. Dalam standar kerja harian seorang designer, baik itu di bidang grafis, interior, atau fashion dan tekstil, membutuhkan perangkat kerja yang tidak hanya memiliki performa kencang, tapi juga fitur display berkualitas tinggi.
 
-Pasalnya saat  bekerja, designer membutuhkan laptop dengan panel layar yang mampu menampilkan warna-warna akurat, jernih, dan detail. ASUS menjawab kebutuhan tersebut dengan menghadirkan [https://www.asus.com/id/laptops/for-home/all-series/](laptop) Vivobook S 15 BAPE Edition yang menawarkan fitur display terbaik dari panel OLED.
+Pasalnya saat  bekerja, designer membutuhkan laptop dengan panel layar yang mampu menampilkan warna-warna akurat, jernih, dan detail. ASUS menjawab kebutuhan tersebut dengan menghadirkan [laptop](https://www.asus.com/id/laptops/for-home/all-series/) Vivobook S 15 BAPE Edition yang menawarkan fitur display terbaik dari panel OLED.
 
 ASUS menghadirkan VivoBook S 15 BAPE Edition sebagai perangkat kerja hasil kolaborasi dengan brand streetwear Jepang yang mendukung produktivitas dan kreativitas seorang desainer. Anda akan bekerja dengan perangkat canggih dalam balutan desain unik karakter BAPE Camo.
 
 Tampilan fisik yang unik tersebut juga didukung dengan fitur display yang mampu jadi andalan Anda untuk menghasilkan karya-karya desain menarik. Perangkat kerja hasil kolaborasi karya seni dan teknologi canggih juga menjadi cerminan hasil karya desain Anda.
 
 ## Keunggulan Fitur Display Vivobook S 15 BAPE Edition untuk Desainer
-Seperti yang sudah disinggung di atas, seorang desainer harus bekerja dengan perangkat yang memiliki kualitas display mumpuni untuk menampilkan ketajaman warna dan detail gambar yang akurat. Berikut ini beberapa keunggulan fitur display [https://id.store.asus.com/asus-vivobook-bathing-ape.html](Vivobook S 15 BAPE) Edition yang mendukung pekerjaan harian desainer jadi lebih produktif.
+Seperti yang sudah disinggung di atas, seorang desainer harus bekerja dengan perangkat yang memiliki kualitas display mumpuni untuk menampilkan ketajaman warna dan detail gambar yang akurat. Berikut ini beberapa keunggulan fitur display [Vivobook S 15 BAPE](https://id.store.asus.com/asus-vivobook-bathing-ape.html) Edition yang mendukung pekerjaan harian desainer jadi lebih produktif.
 
 ### Ukuran Layar yang Ideal
 Laptop ASUS VivoBook S 15 BAPE Edition hadir dengan layar lebar 15,6 inci. Ukuran layar ini menawarkan keseimbangan sempurna antara portabilitas dan kenyamanan saat bekerja. Dengan layar yang lebih besar, Anda dapat melihat lebih banyak konten, berupa gambar dan teks, pada satu layar tanpa harus bergulir terlalu sering. Ukuran layar lebar ini sangat menguntungkan saat Anda sedang membuat gambar dan desain dalam kanvas besar.
